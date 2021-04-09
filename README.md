@@ -4,7 +4,7 @@ Helpful Code Snippets and Study Guides to destroy the OCP Examp
 
 ## What do I need to study with?
 - Java SE 11
-- A Text Editor...NOT an IDE
+- A Text Editor of your choice. Depending on your Java comfortability, if you know the syntax, just use an IDE. If not, try compiling it with just a test editor.
 - Access to the CLI
 
 ### A note on binaries
