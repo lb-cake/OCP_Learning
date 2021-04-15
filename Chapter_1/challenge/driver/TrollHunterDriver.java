@@ -6,7 +6,6 @@ public class TrollHunterDriver {
 
     public static void main(String[] args) {
         Disemvoweler trollHunter = new Disemvoweler();
-        System.out.println(trollHunter.disemvowel("What's up nerds!"));
-        System.out.println(trollHunter.disemvowel("Losers only post here LOL"));
+        System.out.println(trollHunter.disemvowel(args[0]));
     }
 }
